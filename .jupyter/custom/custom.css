@@ -1,11 +1,7 @@
 .test {
-  background-color: red;
+  background-color: blue;
   color: white;
   border: thin solid green;
-}
-
-div#maintoolbar {
-  background-color: red;
 }
 
 .answer {
@@ -14,10 +10,12 @@ div#maintoolbar {
   padding: .5em;
   border: thin solid grey;
   border-radius: 10px;
+  white-space: pre;
 }
 
 .answer::before {
-   content: "mouse over to see the answer!";
+   content: "mouse over to see an example solution";
+   font-style: italic;
    color: black;
    font-weight: bold;
 }
