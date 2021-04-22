@@ -4,8 +4,8 @@ This notebook is intended to provide a non-comprehensive introduction to SQL and
 
 Specifically, it was created to show a person with some technical background but no familiarity with SQL everything needed to construct queries to address use cases like:
 
-    Given a table of event logs associated with users, I need to see events triggered by a specific set of users
-    Given a table of event logs associated with users, I need the set of users assocaited with a specific event recorded during a given period of time
+- Given a table of event logs associated with users, I need to see events triggered by a specific set of users
+- Given a table of event logs associated with users, I need the set of users assocaited with a specific event recorded during a given period of time
 
 To address these use cases, the document will cover:
 
