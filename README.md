@@ -16,6 +16,12 @@ To address these use cases, the document will cover:
 - Filtering results to show only columns `WHERE` the value matches one or more criteria, including being `IN` a given list
 - `JOIN`ing tables together
 
+# Setup
+1. Install [JupyterLab](https://github.com/usernamenumber/SQLBasics) if you haven't already
+2. Clone this repo
+3. Install other dependencies: `pip install -r requirements.txt`
+4. Start the notebook: `jupyter-lab SQLBasics.ipynb`
+
 # Viewing the notebook
 
 Best viewed in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/usernamenumber/SQLBasics/master?filepath=SQLBasics.ipynb) (be patient, it will take a while for this link to fully load!)
